@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
+</p>
 <h1 align="center">Hi 👋, I'm Roshani Vivekanantham</h1>
 <h3 align="center">Student at Open University of Sri Lanka.</h3>
 
