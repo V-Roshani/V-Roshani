@@ -62,6 +62,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=v-roshani&show_icons=true&locale=en&layout=compact" alt="v-roshani" />
 </p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=v-roshani&show_icons=true&locale=en" alt="v-roshani" /></p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=v-roshani&show_icons=true&locale=en" alt="v-roshani" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v-roshani&" alt="v-roshani" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=v-roshani&" alt="v-roshani" />
+</p>
