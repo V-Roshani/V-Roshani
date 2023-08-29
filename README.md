@@ -55,7 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visual studio logo"  />
 </div>
     
-</br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-roshani&show_icons=true&locale=en&layout=compact" alt="v-roshani" /></p>
 
