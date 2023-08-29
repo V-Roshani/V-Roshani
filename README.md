@@ -1,4 +1,4 @@
-<p align="center">
+    <p align="center">
     <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 </p>
 <h1 align="center">Hi 👋, I'm Roshani Vivekanantham</h1>
@@ -57,7 +57,7 @@
     
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-roshani&show_icons=true&locale=en&layout=compact" alt="v-roshani" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-roshani&show_icons=true&locale=en&layout=compact" alt="v-roshani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v-roshani&show_icons=true&locale=en" alt="v-roshani" /></p>
 
