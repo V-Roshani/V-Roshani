@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v-roshani" alt="v-roshani" /></a> </p>
 
-- 🌱 I’m currently learning **Frame work || Cloud || courses || Frontend Development etc..**
+- 🌱 I’m currently learning **Frame work || Cloud || courses etc..**
 
 - 💬 Ask me about **React, Html, CSS and JavaScript**
 
