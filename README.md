@@ -55,11 +55,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visual studio logo"  />
 </div>
-    
+
+</br>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=v-roshani&show_icons=true&locale=en&layout=compact" alt="v-roshani" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v-roshani&show_icons=true&locale=en" alt="v-roshani" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=v-roshani&show_icons=true&locale=en" alt="v-roshani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v-roshani&" alt="v-roshani" /></p>
